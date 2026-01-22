@@ -35,6 +35,4 @@ if will_rain:
 
 
 
-# API key = 46b0162002c5955fe0ff0bd08b7dd017
-# Token = "010abc3a55e6544436a72cfd9a4c0bfa"
 
